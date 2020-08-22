@@ -103,7 +103,7 @@ Random Forest, X Boosting & LinearSVC classifiers where implimented after re-sam
    * Age
    * Physical Condition
 
-  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/cm.png" width="3000" height="3500" />
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/cm.png" width="600" height="500" />
 
 
 
