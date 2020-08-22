@@ -64,7 +64,7 @@ The most deadly types of crashes leading in proportions are: Turning at 19% and 
 
 ### EDA
 #### [Distribution of car accidents with injuries by street](./visualizationsv.ipynb)
-   <img src='images/crashwinjuries.PNG' width='60%'/>
+   <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashwinjuries.png" width="200" height="400" />
 
 
 ### Conclusion
