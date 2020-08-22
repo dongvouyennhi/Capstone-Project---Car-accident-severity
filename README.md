@@ -5,6 +5,7 @@
 ">PRESENTATION</a>
 
  ![](<https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png> |width=50)
+ <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png" width="50" />
 
 # Table Of Contents
 * [Purpose](#purpose)
