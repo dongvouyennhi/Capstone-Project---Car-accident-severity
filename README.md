@@ -110,7 +110,7 @@ Random Forest, X Boosting & LinearSVC classifiers where implimented after re-sam
 ## Interpretion
 The model gave a log loss of 12.9 which and accuracy of 62%. This means the amount the model penelizes for incorrect predictions 12.6 but it only predicted 62% of the primary causes of accidents accurately.
 
-  <img src='images/recall.PNG' width='75%'/>
+ <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/recall.png" width="1000" height="800" />
 
 Its total recall is 62% which is the total amount of times the model classified the cause of an accident was a category correctly out of the total amount of times that category was indeed the cause.
 
