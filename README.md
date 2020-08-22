@@ -79,7 +79,7 @@ I'll definitely recommend channeling more law enforcers and first aid responders
 
 ### EDA
 #### [Time & Weather's effect on amount of accidents that occur](./visualizationsv.ipynb)
-  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/timenwea.png" width="200" height="400" />
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/timenwea.png" width="1000" height="800" />
 
 
 
