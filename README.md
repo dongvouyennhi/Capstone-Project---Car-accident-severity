@@ -130,3 +130,6 @@ The main metrics we'll focus on for this would be recall and the AUC score as we
 .
    
    * Region Division: Deeper analysis on the primary causes of accidents in the North, South, East West and Central regions of the city.
+   
+# Who are the intended users? 
+The project is now being developed to work for any city that wishes to use it. The intended users include city transportation departments, those responsible for managing risk on road networks and individuals interested in crash risk.
