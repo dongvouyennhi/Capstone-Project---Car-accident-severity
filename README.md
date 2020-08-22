@@ -116,7 +116,7 @@ Its total recall is 62% which is the total amount of times the model classified 
 
 Its total precision is 62% and this is the total amount of times the model classified the cause of an accident was a category correctly out of the total amount of the predictions made for that category.
 
-  <img src='images/roc.PNG' width='1000%'/>
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/roc.png" width="1000" height="800" />
 
 The AUC score is 0.8 and this is the average probability that the model can classifiy each class correctly. 
 
