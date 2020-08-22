@@ -4,7 +4,7 @@
 <a href="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/Analysis%20of%20Car%20Accidents%20In%20Chicago%20..pdf
 ">PRESENTATION</a>
 
-  <img src='images/prim.PNG' width='50%'/>
+  <img src='https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png width='50%'/>
 
 # Table Of Contents
 * [Purpose](#purpose)
