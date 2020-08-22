@@ -79,7 +79,9 @@ I'll definitely recommend channeling more law enforcers and first aid responders
 
 ### EDA
 #### [Time & Weather's effect on amount of accidents that occur](./visualizationsv.ipynb)
-   <img src='images/timenwea.PNG' width='1000%'/>
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/timenwea.png" width="200" height="400" />
+
+
 
 ### Conclusion
 From the histogram we can see most accidents occur in clear weather but more accidents with injuries occurs when there’s hail or when it snows. We can also see more accidents occur from 4pm to 8pm.
