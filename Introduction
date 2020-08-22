@@ -1,10 +1,10 @@
+# Capstone Project-Car accident severity
 # Investigating the Car Accidents In Chicago
 
 <a href="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/Analysis%20of%20Car%20Accidents%20In%20Chicago%20..pdf
 ">PRESENTATION</a>
 
-
-  <img src='images/prim.PNG' width='50%'/>
+ <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png" width="1000" height="800" />
 
 # Table Of Contents
 * [Purpose](#purpose)
@@ -46,7 +46,7 @@ Data files used:
 
 ### EDA
 #### [Distribution of car accidents's primary causes](./visualizationsv.ipynb)
-   <img src='images/crashtype.PNG' width='50%'/> 
+<img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashtype.png" width="1000" height="800" />
 
 The most deadly types of crashes leading in proportions are Turning at 19% and Angle at 13%. I’ll recommend focusing on these as they account for the most fatalities.
 
@@ -64,7 +64,7 @@ The most deadly types of crashes leading in proportions are: Turning at 19% and 
 
 ### EDA
 #### [Distribution of car accidents with injuries by street](./visualizationsv.ipynb)
-   <img src='images/crashwinjuries.PNG' width='60%'/>
+   <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashwinjuries.png" width="1000" height="800" />
 
 
 ### Conclusion
@@ -79,7 +79,9 @@ I'll definitely recommend channeling more law enforcers and first aid responders
 
 ### EDA
 #### [Time & Weather's effect on amount of accidents that occur](./visualizationsv.ipynb)
-   <img src='images/timenwea.PNG' width='1000%'/>
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/timenwea.png" width="1000" height="800" />
+
+
 
 ### Conclusion
 From the histogram we can see most accidents occur in clear weather but more accidents with injuries occurs when there’s hail or when it snows. We can also see more accidents occur from 4pm to 8pm.
@@ -101,20 +103,20 @@ Random Forest, X Boosting & LinearSVC classifiers where implimented after re-sam
    * Age
    * Physical Condition
 
-  <img src='images/cm.PNG' width='1000%'/>
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/cm.png" width="1000" height="800" />
 
 
 
 ## Interpretion
 The model gave a log loss of 12.9 which and accuracy of 62%. This means the amount the model penelizes for incorrect predictions 12.6 but it only predicted 62% of the primary causes of accidents accurately.
 
-  <img src='images/recall.PNG' width='75%'/>
+ <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/recall.png" width="1000" height="800" />
 
 Its total recall is 62% which is the total amount of times the model classified the cause of an accident was a category correctly out of the total amount of times that category was indeed the cause.
 
 Its total precision is 62% and this is the total amount of times the model classified the cause of an accident was a category correctly out of the total amount of the predictions made for that category.
 
-  <img src='images/roc.PNG' width='1000%'/>
+  <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/roc.png" width="1000" height="800" />
 
 The AUC score is 0.8 and this is the average probability that the model can classifiy each class correctly. 
 
