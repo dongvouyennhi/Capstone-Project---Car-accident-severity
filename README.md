@@ -46,7 +46,7 @@ Data files used:
 
 ### EDA
 #### [Distribution of car accidents's primary causes](./visualizationsv.ipynb)
-   <img src='images/crashtype.PNG' width='50%'/> 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
 
 The most deadly types of crashes leading in proportions are Turning at 19% and Angle at 13%. I’ll recommend focusing on these as they account for the most fatalities.
 
