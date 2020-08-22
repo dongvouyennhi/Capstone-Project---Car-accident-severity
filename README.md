@@ -4,7 +4,7 @@
 <a href="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/Analysis%20of%20Car%20Accidents%20In%20Chicago%20..pdf
 ">PRESENTATION</a>
 
- <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png" width="200" height="400" />
+ <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/prim.png" width="1000" height="800" />
 
 # Table Of Contents
 * [Purpose](#purpose)
@@ -46,7 +46,7 @@ Data files used:
 
 ### EDA
 #### [Distribution of car accidents's primary causes](./visualizationsv.ipynb)
-<img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashtype.png" width="200" height="400" />
+<img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashtype.png" width="1000" height="800" />
 
 The most deadly types of crashes leading in proportions are Turning at 19% and Angle at 13%. I’ll recommend focusing on these as they account for the most fatalities.
 
@@ -64,7 +64,7 @@ The most deadly types of crashes leading in proportions are: Turning at 19% and 
 
 ### EDA
 #### [Distribution of car accidents with injuries by street](./visualizationsv.ipynb)
-   <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashwinjuries.png" width="200" height="400" />
+   <img src="https://github.com/dongvouyennhi/Capstone-Project---Car-accident-severity/blob/master/crashwinjuries.png" width="1000" height="800" />
 
 
 ### Conclusion
